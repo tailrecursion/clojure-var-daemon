@@ -4,6 +4,8 @@
 
 For details on Clojure daemons, check out the excellent [Clojure Cookbook: Daemonizing an Application](http://www.rkn.io/2014/02/06/clojure-cookbook-daemons/) blog post by [Ryan Neufeld](https://github.com/rkneufeld).
 
+The approach was inspired by [Pedestal's ClojureVarServlet](https://github.com/pedestal/pedestal/blob/master/service/java/io/pedestal/servlet/ClojureVarServlet.java).
+
 ### Dependency
 
 From Clojars:
